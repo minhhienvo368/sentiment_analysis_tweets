@@ -60,5 +60,4 @@ ________________________________________________________________________________
 **assets folder**
  
 **data folder**
-  - this is where the logo is saved
-  - this is also where the **summary.txt** is saved, which gives the user the option to download the summary as a txt file
+  - this is where the logo. images is saved
