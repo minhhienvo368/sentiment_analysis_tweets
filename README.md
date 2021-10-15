@@ -61,3 +61,5 @@ ________________________________________________________________________________
  
 **data folder**
   - this is where the logo. images is saved
+
+**Link to the app:** https://share.streamlit.io/minhhienvo368/sentiment_analysis_tweets/app.py
