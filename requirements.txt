@@ -1,8 +1,10 @@
-gunicorn==20.1.0
-pandas==1.3.3
-Pillow==8.3.2
-streamlit==0.88.0
-nltk == 3.5
-textblob ==0.15.3
-vaderSentiment == 3.3.2
+gunicorn
+pandas
+Pillow
+streamlit
+nltk
+textblob
+vaderSentiment
 emoji_translate
+twint
+wordcloud
